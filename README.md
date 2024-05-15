@@ -32,7 +32,7 @@ This project is a C++ game where blocks fall from the top of the screen and a pl
    ```
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Author
 **Dominick Ferro**
